@@ -5,7 +5,7 @@ This AR application was designed using Unity 2018.2.11f1 and the Vuforia Engine 
 
 It was built for the Android platform. I used work explained while taking a course and customized it for my own purpose.
 
-An attempt to use voice recognition (with http://wit.com) has been made, but more work needs to be done to make it really usable.
+An attempt to use voice recognition (with http://wit.ai) has been made, but more work needs to be done to make it really usable.
 
 The images used as examples are from public web sites as I did have neither the time nor the ressources to access Haitian properties and take decent photos from them that I could finally use as image targets.
 
