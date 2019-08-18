@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="House2Haiti" size="5.000000 5.072944" />
+    <ImageTarget name="House1Haiti" size="5.000000 3.957296" />
+    <ImageTarget name="House23" size="5.000000 3.863636" />
+    <ImageTarget name="House22" size="5.000000 3.863636" />
+    <ImageTarget name="House21" size="5.000000 3.863636" />
+    <ImageTarget name="House13" size="5.000000 3.863636" />
+    <ImageTarget name="House12" size="5.000000 3.863636" />
+    <ImageTarget name="House11" size="5.000000 3.863636" />
+  </Tracking>
+</QCARConfig>
